@@ -1,0 +1,6 @@
+A: letra del alfabeto.
+B: letra del alfabeto.
+TAD: Tipo de dato abstracto.
+Pila: Estructura de datos, lista de tipo LIFO, con inserción y extracción por un solo extremo.
+Lista: Estructura de datos lineal que permite inserción y extracción desde cualquier posición.
+Cola: Lista FIFO.
